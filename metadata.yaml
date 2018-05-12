@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '32803'
     url: http://www.gutenberg.org/2009/agents/32803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27632#Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXXII-June-1911Water-Purificatio_
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2008-12-27'
 gutenberg_type: Text
