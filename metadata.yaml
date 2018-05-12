@@ -1,0 +1,33 @@
+_repo: Transactions-of-the-American-Society-of-Civil-Engineers-vol.-LXXII-June-1911Water-Purificatio__27632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: American Society of Civil Engineers
+    alias: Engineers, American Society of Civil
+    gutenberg_agent_id: '32806'
+    url: http://www.gutenberg.org/2009/agents/32806
+  - agent_name: Hardy, E. D.
+    gutenberg_agent_id: '32803'
+    url: http://www.gutenberg.org/2009/agents/32803
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2008-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TA'
+- !lcsh 'Civil engineering -- Periodicals'
+- !lcsh 'Water treatment plants'
+title: 'Transactions of the American Society of Civil Engineers, vol. LXXII, June,
+  1911
+
+  Water Purification Plant, Washington, D. C. Results of Operation.'
+url: http://www.gutenberg.org/ebooks/27632
